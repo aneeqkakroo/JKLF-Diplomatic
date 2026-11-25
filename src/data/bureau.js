@@ -118,6 +118,13 @@ export const documents = [
     type: "PDF",
   },
   {
+    title: "Our Ideology and Our Roadmap for an Independent Kashmir",
+    description:
+      "Amanullah Khan's account of JKLF's ideology and its roadmap to an independent, reunited Kashmir. English translation of the 2012 Urdu edition, PDF.",
+    href: "/documents/RoadMap_English_Edition.pdf",
+    type: "PDF",
+  },
+  {
     title: "Our Position",
     description:
       "JKLF's full position on the Kashmir question, self-determination and a political settlement.",
