@@ -6,7 +6,7 @@ export const MAIN_SITE = "https://www.jklf.org";
 export const bureau = {
   name: "Diplomatic Bureau",
   description:
-    "The Diplomatic Bureau represents the Jammu Kashmir Liberation Front internationally. It maintains JKLF's relations with foreign governments, international organisations and the Kashmiri diaspora, and reports directly to the Central Committee.",
+    "The Diplomatic Bureau represents the Jammu Kashmir Liberation Front internationally. It maintains JKLF's relations with foreign governments, international organisations and the Kashmiri diaspora.",
 };
 
 export const head = {
